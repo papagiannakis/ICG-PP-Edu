@@ -8,4 +8,4 @@ Interactive Computer Graphics - Principles &amp; Practice Educational
 
 ### Course Description
 
-Please check the course syllabus: [ICG-PP-Edu.ipynb](./ICP-PP-Edu.ipynb) for more details.
+Please check the course syllabus: [ICG-PP-Edu.ipynb](./ICG-PP-Edu.ipynb) for more details.
